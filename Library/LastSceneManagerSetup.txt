@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Simulation/White Blood Cell Simulation/Scenes/CellSimulator 2.unity
+  isLoaded: 1
+  isActive: 1
